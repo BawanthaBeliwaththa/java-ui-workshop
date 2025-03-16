@@ -13,6 +13,15 @@
 <a href="https://github.com/BawanthaBeliwaththa/java-ui-workshop/blob/main/CUI/pseudo_code.md">
   <img src="https://img.shields.io/badge/Pseudo_code-cean?style=for-the-badge" alt="button">
 </a>
+
+<h5> Video footage of how the CUI works</h5>
+<br>
+<center>
+<video controls width="100%">
+  <source src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/CUI-Test.mkv" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</center>
 <hr>
 
 <h2> GUI - Graphical User Interface </h2>
