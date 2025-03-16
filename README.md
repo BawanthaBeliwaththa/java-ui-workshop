@@ -18,7 +18,7 @@
 <br>
 <center>
 <video controls width="100%">
-  <source src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/CUI-Test.mkv" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/CUI-Test.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </center>
