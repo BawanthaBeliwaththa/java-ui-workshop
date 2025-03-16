@@ -33,3 +33,7 @@
 <a href="https://github.com/BawanthaBeliwaththa/java-ui-workshop/blob/main/CUI/assignment_sem01.java">
   <img src="https://img.shields.io/badge/Psuedo_code-cean?style=for-the-badge" alt="button">
 </a>
+<br>
+<center>
+<img src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/GUI-Test.gif" alt="Video">
+</center>
