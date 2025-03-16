@@ -35,5 +35,5 @@
 </a>
 <br>
 <center>
-<img src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/GUI-Test.gif" alt="Video">
+<img src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/GUI/GUI-Test.gif" alt="Video">
 </center>
