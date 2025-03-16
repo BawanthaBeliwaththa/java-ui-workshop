@@ -17,10 +17,7 @@
 <h5> Video footage of how the CUI works</h5>
 <br>
 <center>
-<video controls width="100%">
-  <source src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/CUI-Test.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/CUI-Test.gif" alt="Video">
 </center>
 <hr>
 
