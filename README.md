@@ -17,7 +17,7 @@
 <h5> Video footage of how the CUI works</h5>
 <br>
 <center>
-<img src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/CUI-Test.gif" alt="Video">
+<img src="https://raw.githubusercontent.com/BawanthaBeliwaththa/java-ui-workshop/main/CUI/CUI-Test1.gif" alt="Video">
 </center>
 <hr>
 
