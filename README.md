@@ -30,7 +30,7 @@
 </a>
 
 <h4> Here is the pseudo code of that application</h4>
-<a href="https://github.com/BawanthaBeliwaththa/java-ui-workshop/blob/main/CUI/assignment_sem01.java">
+<a href="https://github.com/BawanthaBeliwaththa/java-ui-workshop/blob/main/GUI/pseudo_code.md">
   <img src="https://img.shields.io/badge/Psuedo_code-cean?style=for-the-badge" alt="button">
 </a>
 
