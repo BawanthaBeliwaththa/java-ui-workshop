@@ -25,7 +25,7 @@
 <h3> For semester 02 e have to build a UI application as the assignment. That is called a GUI application. Here are the basic GUI application Codes.</h3>
 
 <h4> Here you can access the java file of that</h4>
-<a href="https://github.com/BawanthaBeliwaththa/java-ui-workshop/blob/main/CUI/assignment_sem01.java">
+<a href="https://github.com/BawanthaBeliwaththa/java-ui-workshop/blob/main/GUI/">
   <img src="https://img.shields.io/badge/Java_File-orange?style=for-the-badge" alt="button">
 </a>
 
