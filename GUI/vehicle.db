@@ -1,0 +1,22 @@
+CREATE TABLE vehicles (
+    v_id INT AUTO_INCREMENT PRIMARY KEY,
+    v_make VARCHAR(250) NOT NULL,
+    v_model VARCHAR(250) NOT NULL,
+    v_year INT NOT NULL,
+    v_color VARCHAR(250),
+    v_error_sheet VARCHAR(255) 
+);
+
+alter table vehicles AUTO_INCREMENT = 1000;
+
+INSERT INTO vehicles (v_make, v_model, v_year, v_color) VALUES
+('Toyota', 'Corolla', 2020, 'Red'),
+('Honda', 'Civic', 2019, 'Blue'),
+('Ford', 'Mustang', 2021, 'Black'),
+('Chevrolet', 'Camaro', 2018, 'Yellow'),
+('Nissan', 'Altima', 2017, 'White'),
+('Hyundai', 'Elantra', 2016, 'Silver'),
+('Kia', 'Optima', 2015, 'Gray'),
+('Mazda', 'Mazda3', 2014, 'Green'),
+('Subaru', 'Impreza', 2013, 'Orange'),
+('Volkswagen', 'Jetta', 2012, 'Purple');
